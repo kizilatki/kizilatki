@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ergün
 
 I have learned Python and Data Science.
-Then, I'm currently query data and building via Python.
+Then, I'm currently make a query data and building via Python.
 
 🔭 I’m currently working on software testing and SQL
 📫 How to reach me: ergunkilic@protonmail.com

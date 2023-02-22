@@ -3,7 +3,8 @@
 I have learned Python and Data Science.
 Then, I'm currently query data and building via Python.
 
-
+🔭 I’m currently working on software testing and SQL
+📫 How to reach me: ergunkilic@protonmail.com
 <!--
 **kizilatki/kizilatki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
